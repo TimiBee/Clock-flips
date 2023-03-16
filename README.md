@@ -11,7 +11,7 @@
 This is the [link](https://github.com/TimiBee/Clock-flips) to the Github repo of the project
 
 
-*Client:* HTML, CSS, JavaSCript, 
+*Client:* HTML, CSS, SCSS JavaSCript, 
 
 ## Tools Used
 
@@ -22,7 +22,7 @@ Below are are list of tools used, and the precise things they were used for:
 
 The index.html and readme files are in the root folder, alongside the screenshot included in the readme.
 
-The assets folder contains the CSS and JavaScript files, all images and icons used, in their respective folders.
+The assets folder contains the CSS, SCSS and JavaScript files, all images and icons used, in their respective folders.
 
 ## Customization Guide
 
