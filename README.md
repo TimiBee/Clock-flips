@@ -43,20 +43,6 @@ This project is built using the following technologies:
     ```
 2.  **Open `index.html`:** Simply open the `index.html` file in your preferred web browser to view the clock.
 
-## Folder Structure
-
-The project has the following directory structure:
-
-Clock-flips/
-├── index.html           # Main HTML file
-├── README.md            # Project documentation (this file)
-├── base.html.png        # Screenshot of the clock
-└── assets/
-├── css/             # Compiled CSS files
-├── scss/            # SCSS source files
-├── js/              # JavaScript files
-├── img/             # Images used in the project
-└── icons/           # Icon files
 
 
 ## Customization Guide
